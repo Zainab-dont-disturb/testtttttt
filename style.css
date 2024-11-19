@@ -1,0 +1,68 @@
+#nav{
+background-color:rgb(227, 110, 149);
+}
+#a{
+    color:pink;
+}
+#cat{
+color:pink;
+}
+#cat:hover{
+    border: 10px inset rgb(206, 79, 136);
+    border-radius:1em;
+}
+#a:hover{
+    border: 10px inset rgb(206, 79, 136);
+    border-radius:1em;
+}
+#reasons:hover{
+    border: 10px inset rgb(206, 79, 136);
+    border-radius:1em;
+}
+#what:hover{
+    border: 10px inset rgb(206, 79, 136);
+    border-radius:1em;
+}
+
+
+
+#reasons{
+color:pink;
+}
+#what{
+background-color:rgb(201, 131, 142);
+color:pink;
+}
+#p{
+    color:rgb(255, 115, 138);
+}
+label{
+color:palevioletred;
+}
+button{
+    border-radius:1em;
+    color:palevioletred;
+    background-color:pink;
+}
+button:hover{
+    background-color:plum;
+    border: 5px inset pink;
+}
+h1:hover{
+    border: 10px inset rgb(206, 79, 136);
+    border-radius:1em;
+}
+
+#opinions{
+    color:palevioletred;
+    background-color:pink;
+}
+#opinions:hover{
+    border: 10px inset rgb(206, 79, 136);
+    border-radius:1em;
+}
+input:hover{
+    border: 10px inset rgb(206, 79, 136);
+    border-radius:1em;
+    background-color:antiquewhite;
+}
